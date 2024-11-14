@@ -1,0 +1,140 @@
+
+
+li#html.html {
+    color: #161ae4;
+    background-color: rgb(255, 0, 140);
+}
+
+#html.html {
+    color: rgb(146, 8, 89);
+    background-color: rgb(42, 69, 226);
+}
+
+
+#html{
+    color: blueviolet;
+    background-color: cadetblue;
+}
+
+.html{
+    color: red;
+    background-color: yellow;
+}
+
+.html{
+    color: aqua;
+    background-color: cadetblue;
+}
+
+
+li {
+    color: red;
+}
+
+li{
+    color:blue;
+}
+
+li {
+    color: green !important;
+    background-color:aqua !important ;
+}
+
+
+
+
+
+
+
+
+
+/* li{
+    font-size: 30px;
+}
+
+.html{
+    color: #DD4B25;
+}
+
+.css{
+    color: #2D53E5;
+} */
+/* 
+.javascript{
+    color: #F7E025;
+}
+
+.bootstrap{
+    color: #8E1AFB;
+}
+
+.react{
+    color: #81E0FF;
+} */
+
+/* #html{
+    color:green ;
+}
+
+#css{
+    color: blue;
+}
+
+#javascript{
+    color: yellow;
+}
+
+#bootstrap{
+    color: purple;
+}
+#react{
+    color: skyblue;
+} */
+/* h1{
+    background-color: aqua;
+    color: red;
+} */
+
+/* [something]{
+    background-color: green;
+} */
+
+/* h2{
+    color: blue;
+} */
+
+/* [coder]{
+    color: blue;
+    background-color: red;
+} */
+
+/* h1:hover{
+    color: red;
+}
+#html:hover{
+    color: green;
+}
+#css:hover{
+    color: skyblue;
+}
+#javascript:hover{
+    color: blueviolet;
+}
+
+#bootstrap:hover{
+    color: red;
+}
+#react:hover{
+    color: red;
+}
+
+p:hover{
+    background-color: blue;
+    color: red;
+}
+
+h2:hover{
+    color: chartreuse;
+} */
+
+
